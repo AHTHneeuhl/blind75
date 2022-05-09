@@ -1,13 +1,16 @@
 {
-  "name": "testing",
+  "name": "blind",
   "version": "1.0.0",
-  "description": "",
+  "description": "JavaScript Testing",
   "main": "index.js",
   "scripts": {
     "test": "jest"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "JavaScript",
+    "Jest"
+  ],
+  "author": "Shubham Patrick",
   "license": "ISC",
   "devDependencies": {
     "jest": "^28.1.0"
